@@ -8,6 +8,10 @@ Lista de publicaciones del laboratorio. Los nombres de los integrantes del equip
 
 ### 2026
 
+-- [Mapping diversity through geographical, environmental and attribute spaces](https://doi.org/10.1111/2041-210x.70421)  
+  Bruno Vilela, Bruna M. Farina,  Dobrovolsk R, S. F.  Gouvei, J. A. F.  Diniz-Filho, T. R. Rangel, T. S. Fristo, C. Calderón del Cid, M. T. P. Coelho, C. H.  Graha, **Fabricio Villalobos**  
+  *Methods in Ecology and Evolution* (2026)
+
 - [Phylogenetic Patterns in Hunting and Extinction Risk in Primates](https://doi.org/10.1111/acv.70068)  
   **Luis D. Verde Arregoitia**, **Carmen Galán-Acedo**, K. A.-I. Nekaris, P. A. Garber, M. F. Hansen, J. C. Bicca-Marques, M. S. Svensson, V. Nijman, S. Shanee, A. Chaudhary, A. Estrada, R. Dobrovolski, S. F. Gouveia, **Fabricio Villalobos**  
   *Animal Conservation* (2026)
